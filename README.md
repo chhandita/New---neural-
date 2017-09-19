@@ -24,3 +24,4 @@ Considering the sparsity of the matrix, the  base neural network will spawn a ch
 Prim's algorithm is selected if the matrix is dense otherwise,  Kruskal's algorithm is used to find the minimum spanning tree  i.e. the child neural network will give the result in form of MST.
 For spawning the child we are trying to apply various genetic algorithms and concepts of evolutionary programming. 
 
+![promisechains](https://user-images.githubusercontent.com/20223307/30606122-41f8bfa0-9d8e-11e7-94c4-737c0d5aad39.jpg)
